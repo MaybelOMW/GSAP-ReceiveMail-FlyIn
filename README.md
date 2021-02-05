@@ -1,4 +1,4 @@
-# GSAP-ReceiveMail-FadeIn
+# GSAP-ReceiveMail-FlyIn
 
 Gsap animation example that uses HTML, CSS and GSAP TimelineMax() to animate elements.
 
